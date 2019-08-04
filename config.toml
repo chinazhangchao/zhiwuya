@@ -1,0 +1,13 @@
+baseURL = "http://zhiwuya.xyz/"
+languageCode = "zh-CN"
+title = "知无涯"
+theme = "maupassant"
+preserveTaxonomyNames = true
+publishDir = "docs"
+[author]
+  name = "张超"
+
+[params]
+  author = "张超"
+  subtitle = "记录一些思考"
+  keywords = "修道,冥想,入定,修行"
