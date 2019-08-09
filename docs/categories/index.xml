@@ -6,9 +6,19 @@
     <description>Recent content in Categories on 知无涯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Fri, 09 Aug 2019 15:57:21 +0800</lastBuildDate>
     
 	<atom:link href="http://zhiwuya.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>元吾氏</title>
+      <link>http://zhiwuya.xyz/categories/%E5%85%83%E5%90%BE%E6%B0%8F/</link>
+      <pubDate>Fri, 09 Aug 2019 15:57:21 +0800</pubDate>
+      
+      <guid>http://zhiwuya.xyz/categories/%E5%85%83%E5%90%BE%E6%B0%8F/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
